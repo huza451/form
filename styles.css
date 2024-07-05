@@ -61,6 +61,6 @@ input[type="submit"]:hover {
 @media (max-width: 600px) {
     .container {
         margin: 20px;
-        padding: 45px;
+        padding: 35px;
     }
 }
